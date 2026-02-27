@@ -14,7 +14,7 @@ O objetivo é compreender como **escala econômica, estrutura energética e inte
 
 # 1️⃣ Crescimento Histórico das Emissões
 
-![Evolução global](Imagens/co2_1.png)
+![Evolução global](Imagens/co2_1.png?v=2)
 
 As emissões globais cresceram de **9 Mt em 1750** para **38.599 Mt em 2024**.
 
