@@ -41,7 +41,7 @@ A composição das emissões evidencia forte dependência estrutural de combust�
 - Petróleo → transporte e expansão econômica do século XX  
 - Gás natural → complemento relevante na matriz moderna  
 
-Apesar do crescimento das energias renováveis, a matriz energética global ainda é majoritariamente fóssil.
+Apesar do crescimento das energias renováveis, a matriz energética global ainda é majoritariamente fóssil .
 
 ---
 
