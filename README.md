@@ -1,31 +1,67 @@
-## Emissões Globais de CO₂ — Análise Histórica e Estrutural
+# Emissões Globais de CO₂  
+## Análise Histórica, Estrutural e Econômica
 
-Análise exploratória das emissões globais de CO₂ com base nos dados do Our World in Data, investigando evolução histórica, fontes energéticas e desigualdade entre países em termos absolutos, per capita e eficiência econômica.
+Estudo analítico das emissões globais de CO₂ com base nos dados do *Our World in Data*, explorando:
 
-## Pergunta Central
+- Evolução histórica das emissões  
+- Estrutura por fonte energética  
+- Distribuição desigual entre países  
+- Relação entre volume, população e eficiência econômica  
 
-Quais fatores explicam o crescimento das emissões globais e como a responsabilidade climática se distribui entre países?
+O objetivo é compreender como **escala econômica, estrutura energética e intensidade produtiva** moldam o sistema climático global.
 
-## Crescimento Histórico
+---
 
-As emissões globais cresceram de **9 Mt em 1750** para **38.599 Mt em 2024**, impulsionadas pela industrialização e expansão do uso de combustíveis fósseis.  
-O crescimento populacional explica apenas parte desse aumento — a intensificação do consumo energético teve papel determinante.
+# 1️⃣ Crescimento Histórico das Emissões
 
-![Evolução global](Imagens//co2_1.png)
+![Evolução global](Imagens/co2_1.png)
 
-## Fontes de Emissão
+As emissões globais cresceram de **9 Mt em 1750** para **38.599 Mt em 2024**.
 
-- Carvão dominou a industrialização inicial  
-- Petróleo e gás impulsionaram o crescimento no século XX  
-- Combustíveis fósseis ainda representam a maior parte das emissões globais  
+Esse crescimento não pode ser explicado apenas pelo aumento populacional.  
+O fator estrutural dominante foi a **intensificação do consumo energético baseada em combustíveis fósseis**, impulsionada pela industrialização.
 
-A transição energética permanece incompleta.
+### Interpretação estrutural
 
-![Fontes de CO₂](Imagens//co2_3.png)
+- Século XIX → consolidação do carvão  
+- Século XX → expansão via petróleo e gás  
+- Século XXI → crescimento contínuo com dependência fóssil persistente  
 
-## Emissões Per Capita — Desigualdade Climática
+A transição energética global permanece incompleta.
 
-A análise per capita revela diferenças estruturais na responsabilidade individual entre países.
+---
+
+# 2️⃣ Estrutura das Fontes de Emissão
+
+![Fontes de CO₂](Imagens/co2_3.png)
+
+A composição das emissões evidencia forte dependência estrutural de combustíveis fósseis:
+
+- Carvão → base da industrialização inicial  
+- Petróleo → transporte e expansão econômica do século XX  
+- Gás natural → complemento relevante na matriz moderna  
+
+Apesar do crescimento das energias renováveis, a matriz energética global ainda é majoritariamente fóssil.
+
+---
+
+# 3️⃣ Emissões Absolutas — Impacto Sistêmico
+
+![Emissões absolutas](Imagens/co2_2.png)
+
+O volume absoluto define o impacto climático direto no estoque global de carbono.
+
+Grandes economias concentram parcela significativa das emissões totais, tornando-se centrais em qualquer estratégia de estabilização climática.
+
+**Escala importa.**
+
+---
+
+# 4️⃣ Emissões Per Capita — Desigualdade Climática
+
+![CO₂ per capita](Imagens/co2_4.png)
+
+A métrica per capita revela diferenças estruturais na responsabilidade individual entre países.
 
 ### Maiores emissores per capita (2024)
 
@@ -33,46 +69,72 @@ A análise per capita revela diferenças estruturais na responsabilidade individ
 - Kuwait — 26,25 t/pessoa  
 - Brunei — 26,05 t/pessoa  
 
-Países com economias baseadas na produção de energia fóssil apresentam intensidade muito elevada, mesmo com populações pequenas.
+Economias altamente dependentes da produção de energia fóssil apresentam intensidade individual elevada, mesmo com populações pequenas.
 
-### Países com alto total e alta intensidade
+### Interpretação
 
-Estados Unidos, Arábia Saudita e Emirados Árabes combinam grande volume absoluto com emissões elevadas por habitante, ampliando o impacto climático global.
+- País pequeno → alta intensidade individual, impacto global limitado  
+- País grande → intensidade moderada, mas grande impacto total  
 
-### Diferença entre total e per capita
+Per capita mede desigualdade.  
+Volume mede impacto sistêmico.
 
-- Países pequenos podem ter alta intensidade individual, mas impacto total limitado  
-- Grandes economias podem emitir muito no total mesmo com intensidade moderada  
+---
 
-Essa distinção é essencial para avaliar responsabilidade climática e priorização de políticas.
+# 5️⃣ Eficiência Econômica (CO₂ por PIB)
 
+![Eficiência econômica](Imagens/co2_5.jpg)
 
+A intensidade econômica mede quantas toneladas de CO₂ são emitidas para gerar US$ 1.000 de PIB.
 
+### Baixa intensidade
 
-![Emissões absolutas](Imagens//co2_2.png)
-![Eficiência econômica](Imagens//co2_5.jpg)
+- Reino Unido  
+- Alemanha  
+- Japão  
 
-## Eficiência Econômica (CO₂ por PIB)
+Economias que produzem maior valor por unidade de carbono emitido.
 
-A intensidade de carbono da economia indica quão eficientemente os países geram riqueza em relação às emissões.
+### Alta intensidade
 
-- Baixa intensidade: Reino Unido, Alemanha, Japão  
-- Alta intensidade: África do Sul, Irã, China  
+- África do Sul  
+- Irã  
+- China  
 
-Economias mais eficientes produzem mais valor com menor emissão relativa.
-![CO₂ per capita](Imagens//co2_4.png)
+Maior dependência estrutural de combustíveis fósseis e presença relevante de indústria pesada.
 
+Intensidade econômica mede **eficiência produtiva**, não escala total.
 
-## Insight Estratégico
+---
 
-A análise conjunta mostra três dimensões complementares:
+# 6️⃣ Integração dos Indicadores
 
-- Volume total → impacto climático global  
-- Per capita → desigualdade e responsabilidade individual  
-- Intensidade econômica → eficiência energética  
+A análise conjunta revela três dimensões complementares:
 
-Políticas eficazes precisam considerar simultaneamente esses três fatores.
+| Dimensão | O que mede | Implicação estratégica |
+|----------|------------|------------------------|
+| Volume total | Impacto climático global | Prioridade em redução absoluta |
+| Per capita | Responsabilidade média individual | Debate distributivo e equidade |
+| Intensidade por PIB | Eficiência produtiva | Modernização e transição energética |
 
-## Conclusão
+Separadamente, cada indicador é incompleto.  
+Em conjunto, formam um diagnóstico estrutural robusto.
 
-O crescimento das emissões globais está ligado à dependência persistente de combustíveis fósseis e à desigualdade entre países. Reduções efetivas exigem estratégias diferenciadas para grandes emissores, economias intensivas em carbono e países com alta emissão per capita.
+---
+
+#  Insight Estratégico Final
+
+A dinâmica climática global resulta da interação entre:
+
+- Escala econômica  
+- Estrutura energética  
+- Eficiência produtiva  
+
+Reduções efetivas exigem abordagens diferenciadas:
+
+- Grandes emissores → redução absoluta de volume  
+- Economias intensivas → transição estrutural da matriz energética  
+- Países de alta emissão per capita → revisão de padrões de consumo  
+
+O sistema climático global não é explicado por rankings isolados.  
+Ele é determinado por **estrutura, escala e intensidade combinadas**.
