@@ -83,7 +83,7 @@ Volume mede impacto sistêmico.
 
 # 5️⃣ Eficiência Econômica (CO₂ por PIB)
 
-![Eficiência econômica](Imagens/co2_5.jpg)
+![Eficiência econômica](Imagens/co2_5.PNG)
 
 A intensidade econômica mede quantas toneladas de CO₂ são emitidas para gerar US$ 1.000 de PIB.
 
