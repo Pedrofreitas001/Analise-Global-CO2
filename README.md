@@ -1,140 +1,75 @@
-# Emissões Globais de CO₂  
-## Análise Histórica, Estrutural e Econômica
+## Global CO2 Emissions - Historical and Structural Analysis
 
-Estudo analítico das emissões globais de CO₂ com base nos dados do *Our World in Data*, explorando:
+Exploratory analysis of global CO2 emissions based on Our World in Data, investigating historical trends, energy sources, and inequality across countries in absolute terms, per capita, and economic efficiency.
 
-- Evolução histórica das emissões  
-- Estrutura por fonte energética  
-- Distribuição desigual entre países  
-- Relação entre volume, população e eficiência econômica  
+## Central Question
 
-O objetivo é compreender como **escala econômica, estrutura energética e intensidade produtiva** moldam o sistema climático global.
+Which factors explain the growth of global emissions, and how is climate responsibility distributed across countries?
 
----
+## Historical Growth
 
-# 1️⃣ Crescimento Histórico das Emissões
+Global emissions increased from **9 Mt in 1750** to **38,599 Mt in 2024**, driven by industrialization and expanded fossil-fuel use.  
+Population growth explains only part of this increase; intensified energy consumption played a decisive role.
 
-![Evolução global](Imagens/co2_1.png?v=2)
+![Global trend](co2_1.png)
 
-As emissões globais cresceram de **9 Mt em 1750** para **38.599 Mt em 2024**.
+## Emission Sources
 
-Esse crescimento não pode ser explicado apenas pelo aumento populacional.  
-O fator estrutural dominante foi a **intensificação do consumo energético baseada em combustíveis fósseis**, impulsionada pela industrialização.
+- Coal dominated early industrialization  
+- Oil and gas drove growth in the 20th century  
+- Fossil fuels still represent most global emissions  
 
-### Interpretação estrutural
+The energy transition remains incomplete.
 
-- Século XIX → consolidação do carvão  
-- Século XX → expansão via petróleo e gás  
-- Século XXI → crescimento contínuo com dependência fóssil persistente  
+![CO2 sources](co2_3.png)
 
-A transição energética global permanece incompleta.
+## Per-Capita Emissions - Climate Inequality
 
----
+Per-capita analysis reveals structural differences in individual responsibility across countries.
 
-# 2️⃣ Estrutura das Fontes de Emissão
+### Highest per-capita emitters (2024)
 
-![Fontes de CO₂](Imagens/co2_3.png)
+- Qatar - 41.27 t/person  
+- Kuwait - 26.25 t/person  
+- Brunei - 26.05 t/person  
 
-A composição das emissões evidencia forte dependência estrutural de combustíveis fósseis:
+Countries with economies based on fossil-energy production show very high intensity, even with small populations.
 
-- Carvão → base da industrialização inicial  
-- Petróleo → transporte e expansão econômica do século XX  
-- Gás natural → complemento relevante na matriz moderna  
+### Countries with high total emissions and high intensity
 
-Apesar do crescimento das energias renováveis, a matriz energética global ainda é majoritariamente fóssil .
+The United States, Saudi Arabia, and the United Arab Emirates combine large absolute volume with high per-capita emissions, amplifying global climate impact.
 
----
+### Difference between total and per capita
 
-# 3️⃣ Emissões Absolutas — Impacto Sistêmico
+- Small countries can have high individual intensity but limited total impact  
+- Large economies can emit a lot in total even with moderate intensity  
 
-![Emissões absolutas](Imagens/co2_2.png)
+This distinction is essential for assessing climate responsibility and policy prioritization.
 
-O volume absoluto define o impacto climático direto no estoque global de carbono.
+![Absolute emissions](co2_2.png)
+![Economic efficiency](co2_5.jpg)
 
-Grandes economias concentram parcela significativa das emissões totais, tornando-se centrais em qualquer estratégia de estabilização climática.
+## Economic Efficiency (CO2 per GDP)
 
-**Escala importa.**
+Carbon intensity of the economy indicates how efficiently countries generate wealth relative to emissions.
 
----
+- Low intensity: United Kingdom, Germany, Japan  
+- High intensity: South Africa, Iran, China  
 
-# 4️⃣ Emissões Per Capita — Desigualdade Climática
+More efficient economies generate more value with lower relative emissions.
+![CO2 per capita](co2_4.png)
 
-![CO₂ per capita](Imagens/co2_4.png)
+## Strategic Insight
 
-A métrica per capita revela diferenças estruturais na responsabilidade individual entre países.
+Integrated analysis highlights three complementary dimensions:
 
-### Maiores emissores per capita (2024)
+- Total volume -> global climate impact  
+- Per capita -> inequality and individual responsibility  
+- Economic intensity -> energy efficiency  
 
-- Qatar — 41,27 t/pessoa  
-- Kuwait — 26,25 t/pessoa  
-- Brunei — 26,05 t/pessoa  
+Effective policies must consider all three factors simultaneously.
 
-Economias altamente dependentes da produção de energia fóssil apresentam intensidade individual elevada, mesmo com populações pequenas.
+## Conclusion
 
-### Interpretação
+The growth in global emissions is tied to persistent dependence on fossil fuels and inequality among countries. Effective reductions require differentiated strategies for major emitters, carbon-intensive economies, and countries with high per-capita emissions.
 
-- País pequeno → alta intensidade individual, impacto global limitado  
-- País grande → intensidade moderada, mas grande impacto total  
-
-Per capita mede desigualdade.  
-Volume mede impacto sistêmico.
-
----
-
-# 5️⃣ Eficiência Econômica (CO₂ por PIB)
-
-![Eficiência econômica](Imagens/co2_5.PNG)
-
-A intensidade econômica mede quantas toneladas de CO₂ são emitidas para gerar US$ 1.000 de PIB.
-
-### Baixa intensidade
-
-- Reino Unido  
-- Alemanha  
-- Japão  
-
-Economias que produzem maior valor por unidade de carbono emitido.
-
-### Alta intensidade
-
-- África do Sul  
-- Irã  
-- China  
-
-Maior dependência estrutural de combustíveis fósseis e presença relevante de indústria pesada.
-
-Intensidade econômica mede **eficiência produtiva**, não escala total.
-
----
-
-# 6️⃣ Integração dos Indicadores
-
-A análise conjunta revela três dimensões complementares:
-
-| Dimensão | O que mede | Implicação estratégica |
-|----------|------------|------------------------|
-| Volume total | Impacto climático global | Prioridade em redução absoluta |
-| Per capita | Responsabilidade média individual | Debate distributivo e equidade |
-| Intensidade por PIB | Eficiência produtiva | Modernização e transição energética |
-
-Separadamente, cada indicador é incompleto.  
-Em conjunto, formam um diagnóstico estrutural robusto.
-
----
-
-#  Insight Estratégico Final
-
-A dinâmica climática global resulta da interação entre:
-
-- Escala econômica  
-- Estrutura energética  
-- Eficiência produtiva  
-
-Reduções efetivas exigem abordagens diferenciadas:
-
-- Grandes emissores → redução absoluta de volume  
-- Economias intensivas → transição estrutural da matriz energética  
-- Países de alta emissão per capita → revisão de padrões de consumo  
-
-O sistema climático global não é explicado por rankings isolados.  
-Ele é determinado por **estrutura, escala e intensidade combinadas**.
