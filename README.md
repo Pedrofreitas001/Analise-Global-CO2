@@ -11,7 +11,7 @@ Which factors explain the growth of global emissions, and how is climate respons
 Global emissions increased from **9 Mt in 1750** to **38,599 Mt in 2024**, driven by industrialization and expanded fossil-fuel use.  
 Population growth explains only part of this increase; intensified energy consumption played a decisive role.
 
-![Global trend](co2_1.png)
+![Global trend](Imagens/co2_1.png)
 
 ## Emission Sources
 
@@ -21,7 +21,7 @@ Population growth explains only part of this increase; intensified energy consum
 
 The energy transition remains incomplete.
 
-![CO2 sources](co2_3.png)
+![CO2 sources](Imagens/co2_3.png)
 
 ## Per-Capita Emissions - Climate Inequality
 
@@ -46,8 +46,8 @@ The United States, Saudi Arabia, and the United Arab Emirates combine large abso
 
 This distinction is essential for assessing climate responsibility and policy prioritization.
 
-![Absolute emissions](co2_2.png)
-![Economic efficiency](co2_5.jpg)
+![Absolute emissions](Imagens/co2_2.png)
+![Economic efficiency](Imagens/co2_5.jpg)
 
 ## Economic Efficiency (CO2 per GDP)
 
@@ -57,7 +57,7 @@ Carbon intensity of the economy indicates how efficiently countries generate wea
 - High intensity: South Africa, Iran, China  
 
 More efficient economies generate more value with lower relative emissions.
-![CO2 per capita](co2_4.png)
+![CO2 per capita](Imagens/co2_4.png)
 
 ## Strategic Insight
 
